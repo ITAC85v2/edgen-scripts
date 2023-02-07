@@ -1,3 +1,3 @@
 /// unlockalltests.js
 /// alias unlocktests.js
-alert('Deprecated. Please update via https://github.com/ITAC85v2/edgen-scripts.');
+parent.location.href = 'https://github.com/ITAC85v2/edgen-scripts/blob/announcements/testdeprecation.md';
