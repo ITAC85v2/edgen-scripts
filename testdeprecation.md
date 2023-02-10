@@ -1,2 +1,2 @@
-Test Unlocker is permanently unavailable. However, it may soon be used in EdgyBot, since as of Jan. 9, 2023, I am now a developer of the tool. 
-This is simply to prevent patching of this exploit. Apologies for the inconvenience.
+Test Unlocker is now permanently unavailable. However, it may soon be used in EdgyBot, since as of Jan. 9, 2023, I am now a developer of the tool. 
+This is simply to prevent patching of this exploit. Apologies for any inconvenience(s). To get rid of this message, remove ||edgenuity.com/Player/Resources/vendor/knockout-2.2.1.js$script,redirect=unlockalltests.js,important from your uBlock Origin filter list.
