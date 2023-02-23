@@ -6,4 +6,6 @@ List of scripts for Edgenuity.
 
 Other scripts ***NOT*** made by me:
 - [EdgenTweaks](https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js)
-- [EdgyBot - Genuinely amazing tool to automatically finish Edgenuity (behind paywall, obfuscated)](https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot)
+
+Scripts I contribute to:
+- [EdgyBot - Genuinely amazing tool to automatically finish Edgenuity](https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot)
